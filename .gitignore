@@ -5,3 +5,7 @@ bin/
 .classpath
 .project
 .config/
+
+# Intellij Idea
+.idea/
+*.iml
